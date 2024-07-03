@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(107, 176, 185);
+}
+form{
+    background-color: white;
+    height: 680px;
+    width: 600px;
+    margin-left: 30%;
+    margin-top: 20px;
+    padding-top: 30px;
+    border-radius: 20px;
+}
+input{
+    width: 400px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+h3{
+    margin-top: 40px;
+}
+button{
+    margin-top: 30px;
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: rgb(105, 211, 225);
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(64, 150, 155);
+};
+
+li::marker{
+    color: red;
+}
+.dotRed::marker{
+    color: red;
+}
+
+.dotGreen::marker{
+    color: green;
+}
+
+.list1{
+    margin-right: 250px;   
+}
+.list2{
+    margin-right: 235px;   
+}
+.list3{
+    margin-right: 13.5%;   
+}
+.list4{
+    margin-right: 9%;   
+}
+.list5{
+    margin-right: 9%;   
+}
+.list6{
+    margin-right: 21%;   
+}
+.list7{
+    margin-right: 100px;   
+}
+
+.list8{
+    margin-right: 260px;
+}
+.list9{
+    margin-right: 223px;
+}
+.list10{
+    margin-right: 205px;
+}
+#p2{
+    margin-right: 250px;
+}
