@@ -1,21 +1,21 @@
 //INPUTS
-const input1 = document.getElementById('in1');
-const input2 = document.getElementById('in2');
-const input3 = document.getElementById('in3');
+const input1 = document.getElementById('inputForUsername');
+const input2 = document.getElementById('inputForEmail');
+const input3 = document.getElementById('inputForPassword');
 
 //PARAGRAPHS
 
-const paragraph1 = document.getElementById('p1');
-const paragraph2 = document.getElementById('p2');
-const paragraph12 = document.getElementById("p12");
-const paragraph13 = document.getElementById("p13");
-const paraForPassword = document.getElementById('p3');
-const paraForPassword2 = document.getElementById('p31');
-const paraForPassword3 = document.getElementById('p32');
-const paraForPassword4 = document.getElementById('p33');
-const paraForPassword5 = document.getElementById('p34');
-const paraForPassword6 = document.getElementById('p35');
-const paraForPassword7 = document.getElementById('p36');
+const paragraph1 = document.getElementById('paragraph1');
+const paragraph2 = document.getElementById('paragraph2');
+const paragraph12 = document.getElementById("paragraph12");
+const paragraph13 = document.getElementById("paragraph13");
+const paraForPassword = document.getElementById('paragraph3');
+const paraForPassword2 = document.getElementById('paragraph31');
+const paraForPassword3 = document.getElementById('paragraph32');
+const paraForPassword4 = document.getElementById('paragraph33');
+const paraForPassword5 = document.getElementById('paragraph34');
+const paraForPassword6 = document.getElementById('paragraph35');
+const paraForPassword7 = document.getElementById('paragraph36');
 
 let a = ()=>{
     if(input1.value === ""){
